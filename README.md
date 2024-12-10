@@ -1,4 +1,4 @@
-# Purwadhika Final Project Repository
+# Template flodering fullstack typescript
 
 This project uses React.js with NextJS for the frontend, Express.js for the backend, and TurboRepo for monorepo management, facilitating rapid development of a scalable web application with streamlined collaboration and efficient server-client interactions.
 
@@ -8,7 +8,7 @@ This project uses React.js with NextJS for the frontend, Express.js for the back
 
 Runs the app in the development mode.
 
-Open [http://localhost:5173](http://localhost:5173) to view it in the browser. For API, you can access it in [http://localhost:8000/api](http://localhost:8000/api). The app will reload if you make edits.
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser. For API, you can access it in [http://localhost:8000/api](http://localhost:8000/api). The app will reload if you make edits.
 
 ### `npm run build`
 
